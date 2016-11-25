@@ -10,6 +10,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+
         //Shortcut #1
         /*
         * Look up IDE Commands
@@ -83,8 +85,22 @@ public class MainActivity extends AppCompatActivity {
         *
         */
 
+        //Shortcut #7
+        /*
+        * Format the code with proper Indentation
+        *
+        * Mac OS
+        * Cmd + Opt + L
+        *
+        * Linux/Win
+        * Ctrl + Alt + L
+        *
+        */
+
+
 
 
 
     }
+
 }
