@@ -12,15 +12,32 @@ public class MainActivity extends AppCompatActivity {
 
         //Shortcut #1
         /*
+        * Look up IDE Commands
+        *
         * Mac OS
         * cmd + shift + a
         *
         * Linux/Win
         * Ctrl + Shift + A
         *
-        * Look up IDE Commands
-        *
         * */
+
+
+        //Shortcut #2
+        /*
+        * Open Class
+        *
+        * Mac OS
+        * Cmd + O
+        *
+        * Linux/Win
+        * Ctrl + O
+        *
+        */
+
+
+
+
 
 
 
