@@ -10,5 +10,19 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //Shortcut #1
+        /*
+        * Mac OS
+        * cmd + shift + a
+        *
+        * Linux/Win
+        * Ctrl + Shift + A
+        *
+        * Look up IDE Commands
+        *
+        * */
+
+
+
     }
 }
