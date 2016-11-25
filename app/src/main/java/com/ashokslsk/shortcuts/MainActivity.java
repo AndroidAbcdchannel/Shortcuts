@@ -59,6 +59,22 @@ public class MainActivity extends AppCompatActivity {
         *
         */
 
+        //Shortcut #5
+        /*
+        * Open recently Used file
+        *
+        * Mac OS
+        * Cmd + E
+        *
+        * Linux/Win
+        * Ctrl + E
+        *
+        */
+
+
+
+
+
 
 
 
