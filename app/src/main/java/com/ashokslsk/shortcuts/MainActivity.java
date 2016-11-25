@@ -35,6 +35,19 @@ public class MainActivity extends AppCompatActivity {
         *
         */
 
+        //Shortcut #3
+        /*
+        * Open Class
+        *
+        * Mac OS
+        * Cmd + Shift + O
+        *
+        * Linux/Win
+        * Ctrl + Shift + O
+        *
+        */
+
+
 
 
 
