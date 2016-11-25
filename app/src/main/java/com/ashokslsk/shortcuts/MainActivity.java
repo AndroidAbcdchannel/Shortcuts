@@ -71,9 +71,17 @@ public class MainActivity extends AppCompatActivity {
         *
         */
 
-
-
-
+        //Shortcut #6
+        /*
+        * Last Edited Location
+        *
+        * Mac OS
+        * Cmd + Shift + Backspace
+        *
+        * Linux/Win
+        * Ctrl + Shift + Backspace
+        *
+        */
 
 
 
